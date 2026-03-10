@@ -11,5 +11,24 @@ authors:
 version: 1.0.0
 date-released: 2026-03-09
 license: MIT
-url: https://github.com/fxopsai/ai-acceptable-use-policy
-repository-code: https://github.com/fxopsai/ai-acceptable-use-policy
+url: https://www.sunbusinessgroup.com/resources/ai-acceptable-use-policy-sunbusinessgroup.md
+repository-code: https://github.com/fxops-ai/AI-acceptable-use-policy
+abstract: >
+  A customizable AI Acceptable Use Policy and governance framework for US
+  enterprises. Covers four functional domains: compliance and data governance,
+  HR handbook provisions for AI users, IT and information security controls,
+  and legal protections for intellectual property and confidential information.
+  Draws from NIST AI RMF (2025), ISO/IEC 42001:2022, the Defend Trade Secrets
+  Act, CCPA, and emerging US federal AI policy. Includes a customization
+  questionnaire and sample contractual language. MIT licensed and free to adapt.
+keywords:
+  - ai-governance
+  - acceptable-use-policy
+  - enterprise-ai
+  - agentic-ai
+  - ai-compliance
+  - data-governance
+  - information-security
+  - responsible-ai
+  - nist-ai-rmf
+  - llm-governance
