@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: AI Acceptable Use Policy and Governance Framework for US Enterprises
+message: If you use or adapt this framework, please cite it as below.
+type: document
+authors:
+  - name: fxops.ai / Sun Business Group
+  - name: John Williams
+  - name: Chris Delegge
+  - name: Travis Hall
+  - name: Whitney Parker Mitchell
+version: 1.0.0
+date-released: 2026-03-09
+license: MIT
+url: https://github.com/fxopsai/ai-acceptable-use-policy
+repository-code: https://github.com/fxopsai/ai-acceptable-use-policy
