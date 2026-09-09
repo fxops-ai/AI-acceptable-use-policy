@@ -1,13 +1,13 @@
 # AI Acceptable Use Policy (AUP) and Governance Framework for US Enterprises
 
-**Version 1.0 — March 2026**
+**Version 1.1 — September 2026**
 **License**: MIT
 
 ---
 
 ## Overview
 
-A customizable governance framework for US businesses adopting generative and agentic AI responsibly. Covers four primary domains:
+A customizable governance framework for US businesses adopting generative and agentic AI responsibly — including agent development, agent use, and workflow/process automation beyond chat interfaces. Coverage stays high-level so organizations can set their own reasonable definitions and controls. Covers four primary domains:
 
 - **Compliance** — Data governance, privacy tiers, regulatory alignment (NIST AI RMF, ISO/IEC 42001, CCPA, Defend Trade Secrets Act)
 - **HR** — Acceptable use handbook provisions, training requirements, digital agent classification
@@ -37,7 +37,7 @@ Any US-based organization seeking a documented, defensible starting point for AI
 
 1. Read the full document to understand scope and structure.
 2. Work through **Appendix A: Customization Questionnaire** with your legal, HR, IT, and governance leads.
-3. Adapt sections to your organization's size, industry, and AI maturity.
+3. Adapt sections to your organization's size, industry, and AI maturity. Use the agent, development, and automation language as a starting point — define those terms and proportionate controls locally rather than overspecifying in the AUP itself.
 4. Adopt the **Appendix B** sample contractual language as a starting point for vendor agreements and HR handbook provisions.
 5. Schedule annual review — or sooner if triggered by regulatory changes, incidents, or new model deployments.
 
@@ -86,4 +86,4 @@ MIT License. Free to use, adapt, and redistribute with attribution. See `LICENSE
 
 ---
 
-*Published by fxops.ai — March 2026*
+*Published by fxops.ai — Version 1.1, September 2026 (Version 1.0, March 2026)*

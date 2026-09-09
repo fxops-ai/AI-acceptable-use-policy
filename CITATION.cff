@@ -8,8 +8,8 @@ authors:
   - name: Chris Delegge
   - name: Travis Hall
   - name: Whitney Parker Mitchell
-version: 1.0.0
-date-released: 2026-03-09
+version: 1.1.0
+date-released: 2026-09-09
 license: MIT
 url: https://www.sunbusinessgroup.com/resources/ai-acceptable-use-policy-sunbusinessgroup.md
 repository-code: https://github.com/fxops-ai/AI-acceptable-use-policy
@@ -18,14 +18,19 @@ abstract: >
   enterprises. Covers four functional domains: compliance and data governance,
   HR handbook provisions for AI users, IT and information security controls,
   and legal protections for intellectual property and confidential information.
-  Draws from NIST AI RMF (2025), ISO/IEC 42001:2022, the Defend Trade Secrets
-  Act, CCPA, and emerging US federal AI policy. Includes a customization
-  questionnaire and sample contractual language. MIT licensed and free to adapt.
+  Includes high-level starting guidance for agent development, agent use, and
+  workflow/process automation beyond chat interfaces; organizations are expected
+  to adapt reasonable local definitions and controls. Draws from NIST AI RMF
+  (2025), ISO/IEC 42001:2022, the Defend Trade Secrets Act, CCPA, and emerging
+  US federal AI policy. Includes a customization questionnaire and sample
+  contractual language. MIT licensed and free to adapt.
 keywords:
   - ai-governance
   - acceptable-use-policy
   - enterprise-ai
   - agentic-ai
+  - agent-development
+  - process-automation
   - ai-compliance
   - data-governance
   - information-security
